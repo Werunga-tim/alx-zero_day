@@ -1,2 +1,2 @@
-my git README.md
-up to date
+my git README.md is up to date
+
